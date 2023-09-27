@@ -1,5 +1,5 @@
 {
-    "name": "deltasystems/graylog-sdk",
+    "name": "elevatodigital/graylog-sdk",
     "description": "A PHP sdk to communicate with the Graylog REST API",
     "keywords": ["Graylog", "API", "Symfony"],
     "type": "library",
